@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "\nadsync_autoinstall.sh\nSteven CHARRIER - http://stevencharrier.fr/ - https://github.com/Punk--Rock\nVersion 1.3 - 04/04/2015\n\nInitialisation en cours...\n"
+echo -e "\nadsync_autoinstall.sh\nSteven CHARRIER - http://stevencharrier.fr/\nhttps://github.com/Punk--Rock\nVersion 1.3 - 04/04/2015\n\nInitialisation en cours...\n"
 sleep 5
 
 if [ "$USER" = "root" ]
